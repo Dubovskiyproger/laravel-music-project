@@ -20,15 +20,18 @@
                             <path d="M918.3 74.7c-13.3-11.2-30.8-15.9-47.9-12.8l-503.3 88.8c-28.1 5-48.5 29.3-48.5 57.8v500.8c-24.9-21.2-57.1-34.1-92.3-34.1-78.6 0-142.6 64-142.6 142.6s64 142.6 142.6 142.6 142.6-64 142.6-142.6V369.2L889 277.4v331.2c-24.9-21.2-57.1-34.1-92.3-34.1-78.6 0-142.6 64-142.6 142.6s64 142.6 142.6 142.6 142.6-64 142.6-142.6V119.7c0-17.4-7.6-33.8-21-45zM226.3 910c-50.9 0-92.3-41.4-92.3-92.3s41.4-92.3 92.3-92.3 92.3 41.4 92.3 92.3-41.4 92.3-92.3 92.3z m142.6-591.9V208.5c0-4.1 2.9-7.6 6.9-8.3l503.3-88.8c3.4-0.5 5.7 0.9 6.8 1.9 1.1 0.9 3 3 3 6.4v106.7l-520 91.7z m427.8 491.3c-50.9 0-92.3-41.4-92.3-92.3s41.4-92.3 92.3-92.3 92.3 41.4 92.3 92.3-41.4 92.3-92.3 92.3z" fill="#3CB87F" />
                         </svg>
                     </a></li>
-                <li class="md:ml-16">
+                <li class="md:ml-16 mt-3 md:mt-0">
                     <a href="#" class="hover:text-gray-300">Albums</a>
                 </li>
-                <li class="md:ml-6">
+                <li class="md:ml-6 mt-3 md:mt-0">
                     <a href="#" class="hover:text-gray-300">Artists</a>
+                </li>
+                <li class="md:ml-6 mt-3 md:mt-0">
+                    <a href="#" class="hover:text-gray-300">Genres</a>
                 </li>
             </ul>
             <div class="flex flex-col md:flex-row items-center">
-                <div class="relative">
+                <div class="relative mt-3 md:mt-0">
                     <input type="text" class="bg-gray-800 text-sm rounded-full w-64 px-4 pl-8 py-1
                     focus:outline-none focus:shadow-outline" placeholder="Search">
                     <div class="absolute top-0">
@@ -39,7 +42,7 @@
 
                     </div>
                 </div>
-                <div class="ml-4">
+                <div class="md:ml-4 mt-3 md:mt-0">
                 <a href="#">
                 <svg width="35" height="35" viewBox="0 0 25 24" fill="#ffffff" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4337 6.35C16.4337 8.74 14.4937 10.69 12.0937 10.69L12.0837 10.68C9.69365 10.68 7.74365 8.73 7.74365 6.34C7.74365 3.95 9.70365 2 12.0937 2C14.4837 2 16.4337 3.96 16.4337 6.35ZM14.9337 6.34C14.9337 4.78 13.6637 3.5 12.0937 3.5C10.5337 3.5 9.25365 4.78 9.25365 6.34C9.25365 7.9 10.5337 9.18 12.0937 9.18C13.6537 9.18 14.9337 7.9 14.9337 6.34Z" fill="#ffffff"/>
