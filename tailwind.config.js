@@ -11,6 +11,9 @@ export default {
     ],
     theme: {
         extend: {
+            width: {
+                '96': '24rem'
+            },
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
