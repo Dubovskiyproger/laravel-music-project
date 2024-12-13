@@ -1,3 +1,12 @@
+<style>
+    .tag a {
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    box-shadow: inset 0 0 0 1px rgba(54,164,113,.6);
+    padding: 6px 15px 6px 15px;
+}
+</style>
 @extends('layouts.main')
 
 @section('content')
@@ -22,6 +31,27 @@
                 <div class="mt-12">
                     <div>Duration: <span class="text-gray-400">10 tracks, 62:00</span></div>
                     <div class="mt-2">Release date: <span class="text-gray-400">1 March 1973</span></div>
+                </div>
+
+                <div class="row mt-12">
+                    <div class="col-sm-8">
+                        <section class="block box-border -ml-[10px]">
+                            <ul class="inline-block tracking-wider tag">
+                                <li class="inline-block">
+                                    <a href="/ru/tag/progressive+rock" class="">progressive rock</a>
+                                </li>
+                                <li class="inline-block">
+                                    <a href="/ru/tag/progressive+rock" class="">rock</a>
+                                </li>
+                                <li class="inline-block">
+                                    <a href="/ru/tag/progressive+rock" class="">prog</a>
+                                </li>
+                                <li class="inline-block">
+                                    <a href="/ru/tag/progressive+rock" class="">classic rock</a>
+                                </li>
+                            </ul>
+                        </section>
+                    </div>
                 </div>
                 
             </div>
