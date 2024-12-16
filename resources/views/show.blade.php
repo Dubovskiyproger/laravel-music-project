@@ -38,16 +38,16 @@
                         <section class="block box-border -ml-[10px]">
                             <ul class="inline-block tracking-wider tag">
                                 <li class="inline-block">
-                                    <a href="/ru/tag/progressive+rock" class="">progressive rock</a>
+                                    <a href="/ru/tag/progressive+rock">progressive rock</a>
                                 </li>
                                 <li class="inline-block">
-                                    <a href="/ru/tag/progressive+rock" class="">rock</a>
+                                    <a href="/ru/tag/progressive+rock">rock</a>
                                 </li>
                                 <li class="inline-block">
-                                    <a href="/ru/tag/progressive+rock" class="">prog</a>
+                                    <a href="/ru/tag/progressive+rock">prog</a>
                                 </li>
                                 <li class="inline-block">
-                                    <a href="/ru/tag/progressive+rock" class="">classic rock</a>
+                                    <a href="/ru/tag/progressive+rock">classic rock</a>
                                 </li>
                             </ul>
                         </section>
@@ -57,5 +57,5 @@
             </div>
         </div>
 
-    </div><!-- end music info-->
+    </div><!-- end music info -->
 @endsection
