@@ -7,4 +7,4 @@ use Illuminate\Support\Facades\Route;
 // });
 
 Route::view('/', 'index');
-Route::view('/music', 'show');
+Route::view('/album', 'show');

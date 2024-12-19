@@ -10,7 +10,16 @@ export default {
         './resources/**/*.vue',
     ],
     theme: {
+        container: {
+            center: true,
+            screens: {
+                xl: '1280px',
+            },
+        },
         extend: {
+            screens: {
+                '2xl': '1536px',
+            },
             width: {
                 '96': '24rem'
             },

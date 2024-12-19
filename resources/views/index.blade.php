@@ -1,10 +1,10 @@
 @extends('layouts.main')
 
 @section('content')
-    <div class="container mx-auto px-4 pt-16">
+    <div class="container mx-auto px-4 py-16">
         <div class="popular-music">
             <h2 class="uppercase tracking-wide text-green-500 text-lg font-semibold">Popular Music</h2>
-            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-16">
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-16">
                 <div class="mt-8">
                     <a href="#">
                         <img src='/img/dark-side.jpg' alt="Timeless" class="hover:opacity-75 transition ease-in-out duration-150">
